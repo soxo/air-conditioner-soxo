@@ -13,6 +13,9 @@
   "repository": {
     "url": "https://github.com/soxo/air-conditioner-soxo"
   },
+  "repository2": {
+    "url": "https://github.com/YunYouJun/air-conditioner"
+  },
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "run-p type-check build-only",
