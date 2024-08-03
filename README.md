@@ -46,7 +46,6 @@ Air Conditioner Vue
 
 您可以快速为您的网站安装空调。
 
-样板房：[空调房](https://blog.anheyu.com/air-conditioner/)
 
 ## Dev
 
