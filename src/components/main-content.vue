@@ -115,4 +115,9 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
     }
   }
 }
+
+.copyright-box .copyright-p-1[data-v-c52b1cdf] {
+  color: ghostwhite;
+}
+
 </style>
