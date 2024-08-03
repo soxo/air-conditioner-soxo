@@ -78,6 +78,7 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
       &-mode {
         font-size: 0.875rem;
         line-height: 1.25rem;
+        background-color: ghostwhite;
       }
       .temperature-box {
         font-size: 2.25rem;
@@ -88,12 +89,14 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
           text-shadow: 0 0 2px rgb(0 0 0 / 10%);
           font-size: 2.25rem;
           line-height: 2.5rem;
+          background-color: ghostwhite;
         }
       }
     }
   }
   &-bottom {
     margin-top: 1.5rem;
+    background-color: ghostwhite;
     &-logo {
       width: 12px;
       margin: auto;
