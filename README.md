@@ -19,10 +19,7 @@ Air Conditioner Vue
 
 该项目创意来自 [云游君](https://www.yunyoujun.cn/), 使用 VUE3 + VITE + TS 构建, 未使用任何 UI 框架，无多余样式资源，打包后仅 84kb。
 
-> [云空调，便携小空调，#VUE3 #VITE #TS ｜安知鱼](https://blog.anheyu.com/air-conditioner/)
-
-- 裸机[main]：[https://loquacious-bienenstitch-58539b.netlify.app/n](https://loquacious-bienenstitch-58539b.netlify.app/)
-- 样板房：<https://blog.anheyu.com/air-conditioner/>
+- 样板房：<https://air-conditioner-soxo.pages.dev/>
 
 ## Features
 
