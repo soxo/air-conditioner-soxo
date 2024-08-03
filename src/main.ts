@@ -1,11 +1,12 @@
-/*
- * @Description:
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-28 19:48:05
- * @LastEditTime: 2022-11-29 21:06:01
- * @LastEditors: 安知鱼
- */
+<!--
+ * @Description: Copyright
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2017-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
+-->
+
 import { createApp } from "vue";
 import { createPinia } from "pinia";
 import directivesList from "@/directives/index";
