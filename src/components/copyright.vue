@@ -19,7 +19,7 @@ import * as pkg from "../../package.json";
       <a class="copyright-p-1-1" href="https://sponsors.yunyoujun.cn" target="_blank" rel="noreferrer">
         <div class="copyright-p-1-1-icon" />
       </a>
-      <a :href="pkg.author.url" target="_blank" rel="noreferrer">𝓓𝓸𝓷 @{{ pkg.author.name }}</a>
+      <a :href="pkg.author.url" target="_blank" rel="noreferrer">简艾 @{{ pkg.author.name }}</a>
     </div>
     <p>2022 - {{ new Date().getFullYear() }}</p>
   </div>
