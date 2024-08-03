@@ -15,8 +15,8 @@ import * as pkg from "../../package.json";
   <div class="copyright-box">
     <div class="copyright-p-1">
       ©
-      <a :href="pkg.repository.url" target="_blank" rel="noreferrer">AnZhiYu Air Conditioner</a>
-      <a class="copyright-p-1-1" href="https://sponsors.yunyoujun.cn" target="_blank" rel="noreferrer">
+      <a :href="pkg.repository.url" target="_blank" rel="noreferrer">soxo Air Conditioner</a>
+      <a class="copyright-p-1-1" href="https://www.zhangdong.me" target="_blank" rel="noreferrer">
         <div class="copyright-p-1-1-icon" />
       </a>
       <a :href="pkg.author.url" target="_blank" rel="noreferrer">简艾 @{{ pkg.author.name }}</a>
