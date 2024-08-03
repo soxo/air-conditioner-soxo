@@ -106,7 +106,7 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
       margin: 0.25rem -20px 0px;
     }
     &-dot {
-      background-color: ghostwhite;
+      background-color: rgb(224, 224, 224);
       border-radius: 9999px;
       width: 0.25rem;
       height: 0.25rem;
