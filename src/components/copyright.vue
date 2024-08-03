@@ -61,10 +61,6 @@ import * as pkg from "../../package.json";
     color: inherit;
     text-decoration: inherit;
   }
-
-  .copyright-box .copyright-p-1[data-v-677422a5] {
-  color: gold;
-}
   
 }
 </style>
