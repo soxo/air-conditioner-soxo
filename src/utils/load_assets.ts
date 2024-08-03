@@ -1,11 +1,11 @@
 /*
- * @Description:
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-29 17:09:04
- * @LastEditTime: 2022-11-29 17:10:45
- * @LastEditors: 安知鱼
- */
+ * @Description: 
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2017-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
+*/
 export const getAssetURL = (assetsURL: string) => {
   // 参数一: 相对路径
   // 参数二: 当前路径的URL
