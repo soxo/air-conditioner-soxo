@@ -62,9 +62,5 @@ import * as pkg from "../../package.json";
     text-decoration: inherit;
   }
 
-  .copyright-box .copyright-p-1[data-v-c52b1cdf] {
-  color: ghostwhite;
-}
-
 }
 </style>
