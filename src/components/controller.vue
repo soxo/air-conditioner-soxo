@@ -1,11 +1,12 @@
 <!--
- * @Description: Controller
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-29 15:21:38
- * @LastEditTime: 2023-02-15 11:05:20
- * @LastEditors: 安知鱼
+ * @Description: Copyright
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2017-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
 -->
+
 <script lang="ts" setup>
 import AnzhiyuButton from "@/components/anzhiyu-button.vue";
 // import { getAssetURL } from "@/utils/load_assets";
