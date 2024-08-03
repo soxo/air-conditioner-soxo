@@ -15,7 +15,7 @@ import * as pkg from "../../package.json";
   <div class="copyright-box">
     <div class="copyright-p-1">
       ©
-      <a :href="pkg.repository.url" target="_blank" rel="noreferrer">soxo Air Conditioner</a>
+      <a :href="pkg.repository.url" target="_blank" rel="noreferrer">𝓖𝓲𝓽𝓱𝓾𝓫</a>
       <a class="copyright-p-1-1" href="https://www.zhangdong.me" target="_blank" rel="noreferrer">
         <div class="copyright-p-1-1-icon" />
       </a>
