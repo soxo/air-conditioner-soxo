@@ -38,11 +38,9 @@ import * as pkg from "../../package.json";
     justify-content: center;
     align-items: center;
     margin: 0.5rem;
-    color: gold;
     &-1 {
       display: inline-flex;
-      color: gold;
-      
+      color: #0078e7 !important;
       &-icon {
         margin-left: 0.25rem;
         margin-right: 0.25rem;
