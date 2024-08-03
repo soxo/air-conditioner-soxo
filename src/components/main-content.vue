@@ -58,6 +58,7 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
   box-shadow: 0px 11px 16px -2px rgb(7 17 27 / 9%);
   padding: 10px;
   overflow: hidden;
+  background-color: ghostwhite;
   .font-digit {
     font-family: Digital-7 Mono;
   }
