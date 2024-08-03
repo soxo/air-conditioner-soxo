@@ -1,5 +1,5 @@
 <h1 align="center">
-Air Conditioner Vue
+Air Conditioner
 </h1>
 
 <p align="center">
