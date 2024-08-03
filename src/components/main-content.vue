@@ -51,7 +51,7 @@ const homeStore = useHomeStore();
 let { status, temperature, mode } = storeToRefs(homeStore) as any;
 </script>
 
-<style scoped lang="scss">
+<style scoped lang="scss";color:white;>
 .air-conditioner-main-content {
   border: 1px solid rgb(224, 224, 224);
   border-radius: 10px 10px 20px 20px;
