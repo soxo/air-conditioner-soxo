@@ -1,10 +1,10 @@
 <!--
  * @Description: Copyright
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-29 21:42:28
- * @LastEditTime: 2022-11-30 10:27:17
- * @LastEditors: 安知鱼
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2023-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
 -->
 
 <script lang="ts" setup>
