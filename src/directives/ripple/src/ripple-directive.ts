@@ -1,11 +1,11 @@
 /*
- * @Description:
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-29 20:59:45
- * @LastEditTime: 2022-11-29 21:02:47
- * @LastEditors: 安知鱼
- */
+ * @Description: Copyright
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2017-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
+*/
 // can export function.  解构参数类型冗余 新定义insterface IRippleDirectiveOptionWithBinding
 import { DEFAULT_PLUGIN_OPTIONS } from "./options";
 import type { IRippleDirectiveOptions, IRippleDirectiveOptionWithBinding } from "./options";
