@@ -1,11 +1,12 @@
 <!--
- * @Description: 
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-29 13:43:16
- * @LastEditTime: 2023-02-15 11:06:06
- * @LastEditors: 安知鱼
+ * @Description: Copyright
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2017-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
 -->
+
 <template>
   <div class="air-conditioner-main-content">
     <div class="air-conditioner-main-content-subject">
