@@ -20,7 +20,7 @@ import * as pkg from "../../package.json";
         <div class="copyright-p-1-1-icon" />
       </a>
       <a :href="pkg.author.url" target="_blank" rel="noreferrer">简艾 @{{ pkg.author.name }}</a>
-      <a :href="pkg.repository.url" target="_blank" rel="noreferrer">@{{ pkg.author.author }}</a>
+      <a :href="pkg.repository2.url" target="_blank" rel="noreferrer">@{{ pkg.author.author }}</a>
     </div>
     <p>2022 - {{ new Date().getFullYear() }}</p>
   </div>
