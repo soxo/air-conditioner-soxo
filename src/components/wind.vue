@@ -1,11 +1,12 @@
 <!--
- * @Description: 
- * @Author: 安知鱼
- * @Email: anzhiyu-c@qq.com
- * @Date: 2022-11-29 15:10:55
- * @LastEditTime: 2022-11-29 20:10:40
- * @LastEditors: 安知鱼
+ * @Description: Copyright
+ * @Author: 简艾
+ * @Email: 137333@163.com
+ * @Date: 2017-12-15 16:51:10
+ * @LastEditTime: 2024-07-30 19:37:31
+ * @LastEditors: 简艾
 -->
+
 <template>
   <div :class="status ? 'air-conditioner-wind windRunningAnimation' : 'air-conditioner-wind'">
     <div class="wind-line-1 size25Rem"></div>
