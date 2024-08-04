@@ -39,7 +39,6 @@ import * as pkg from "../../package.json";
     align-items: center;
     margin: 0.5rem;
     padding-top: 37px;
-    text-color: white;
     &-1 {
       display: inline-flex;
       color: #0078e7 !important;
