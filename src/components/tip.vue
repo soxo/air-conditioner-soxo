@@ -10,7 +10,7 @@
 <template>
   <div class="air-conditioner-tip">
     <div class="air-conditioner-tip-icon"></div>
-    <div class="air-conditioner-tip-content">Tip: 自然凉小空调为你的夏日带去</div>
+    <div class="air-conditioner-tip-content"> 自然凉小空调为你的夏日带去</div>
     <div class="air-conditioner-tip-highlight">清凉！</div>
   </div>
 </template>
