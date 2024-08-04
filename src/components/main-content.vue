@@ -53,6 +53,7 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
 
 <style scoped lang="scss">
 .air-conditioner-main-content {
+  background-color: antiquewhite;
   border: 1px solid rgb(224, 224, 224);
   border-radius: 10px 10px 20px 20px;
   box-shadow: 0px 11px 16px -2px rgb(7 17 27 / 9%);
@@ -62,28 +63,34 @@ let { status, temperature, mode } = storeToRefs(homeStore) as any;
     font-family: Digital-7 Mono;
   }
   &-subject {
+    background-color: antiquewhite;
     display: flex;
     align-items: center;
     justify-content: center;
     &-left {
+      background-color: antiquewhite;
       width: 50%;
     }
     &-right {
+      background-color: antiquewhite;
       width: 50%;
       display: flex;
       margin-right: 30px;
       flex-direction: column;
       align-items: flex-end;
       &-mode {
+        background-color: antiquewhite;
         font-size: 0.875rem;
         line-height: 1.25rem;
       }
       .temperature-box {
+        background-color: antiquewhite;
         font-size: 2.25rem;
         line-height: 2.5rem;
         text-align: center;
         color: rgb(204, 204, 204);
         .temperature {
+          background-color: antiquewhite;
           text-shadow: 0 0 2px rgb(0 0 0 / 10%);
           font-size: 2.25rem;
           line-height: 2.5rem;
