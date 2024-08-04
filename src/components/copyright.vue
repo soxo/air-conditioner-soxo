@@ -32,7 +32,6 @@ import * as pkg from "../../package.json";
   font-size: 0.75rem;
   line-height: 1rem;
   text-align: center;
-  text-color: white;
   margin-top: 2rem;
   .copyright-p-1 {
     display: flex;
