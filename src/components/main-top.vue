@@ -8,9 +8,11 @@
 -->
 
 <template>
+  <!--
   <div class="air-conditioner-main-top">
     <h1 class="air-conditioner-main-top-title">自然凉小空调</h1>
   </div>
+  -->
 </template>
 
 <script lang="ts" setup></script>
