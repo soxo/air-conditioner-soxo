@@ -20,8 +20,8 @@ import Copyright from "./components/copyright.vue";
     <MainTop />
     <MainContent />
     <Controller />
-    <Tip />
     <Copyright />  
+    <Tip />
   </main>
 </template>
 
