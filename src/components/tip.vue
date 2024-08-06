@@ -38,7 +38,7 @@
     width: 1.2em;
     height: 1.2em;
     color: rgb(243, 168, 59);
-    font-size: 1.25rem;
+    font-size: .75rem;
     line-height: 1.75rem;
   }
   &-highlight {
