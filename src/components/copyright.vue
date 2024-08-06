@@ -22,7 +22,12 @@ import * as pkg from "../../package.json";
       <a :href="pkg.author.url" target="_blank" rel="noreferrer">掌门: 简艾 @{{ pkg.author.name }}</a>
       <a :href="pkg.repository2.url" target="_blank" rel="noreferrer"> 🍁{{ pkg.author.author }}</a>
     </div>
+
+    <!--
     <p>2017 - {{ new Date().getFullYear() }}</p>
+    -->
+    
+    
   </div>
 </template>
 
