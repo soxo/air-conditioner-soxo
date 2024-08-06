@@ -18,10 +18,10 @@ import Copyright from "./components/copyright.vue";
 <template>
   <main class="air-conditioner-vue">
     <MainTop />
-    <Tip />
     <MainContent />
     <Controller />
     <Copyright />
+     <Tip />
   </main>
 </template>
 
